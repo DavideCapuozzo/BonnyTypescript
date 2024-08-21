@@ -6,6 +6,7 @@
     <h1>BONNY</h1>
     Try it on Codepen:
     <a href="https://codepen.io/Davide-Capuozzo/pen/GRbxEGB?editors=1112">Codepen</a>
+    <br>
 </div>
 
 
