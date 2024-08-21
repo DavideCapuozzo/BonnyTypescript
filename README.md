@@ -4,12 +4,10 @@
 
 <div align="center" width="100px">
     <h1>BONNY</h1>
+    Try it on Codepen:
+    <a href="https://codepen.io/Davide-Capuozzo/pen/GRbxEGB?editors=1112">Codepen</a>
 </div>
 
-<div align="center">
-  Try it on Codepen: <br>
-  <a href="https://codepen.io/Davide-Capuozzo/pen/GRbxEGB?editors=1112">Codepen</a>
-</div>
 
 
 
