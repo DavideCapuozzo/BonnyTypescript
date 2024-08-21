@@ -6,14 +6,12 @@
     <h1>BONNY</h1>
 </div>
 
-<br>
-
 <div align="center">
   Try it on Codepen: <br>
   <a href="https://codepen.io/Davide-Capuozzo/pen/GRbxEGB?editors=1112">Codepen</a>
 </div>
 
-<br>
+
 
 ## Description
 
@@ -45,10 +43,6 @@ And launch the application:
 ## Contributing
 
 We always aim to improve! If you think this code can be improved open a pull request
-
-## License
-
-Disclaimer: Everything you see here is open and free to use as long as you comply with the [license](https://github.com/saleor/saleor/blob/master/LICENSE). There are no hidden charges. We promise to do our best to fix bugs and improve the code.
 
 #### Crafted with ❤️ by [Davide Capuozzo](https://www.linkedin.com/in/davide-capuozzo-8468682a3/)
 
